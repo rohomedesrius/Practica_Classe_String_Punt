@@ -1,0 +1,13 @@
+CodeStyle for Roger Homedes on project "Practica_classe_Punt"
+
+Filename: 
+-Files will be named following the camelCase style.
+
+Variables: 
+-Variables will be named following the snake_case style. 
+
+Class Names:
+-Classes will be named following the camelCase style. 
+
+Method Names: 
+-Methods will be named following the camelCase style. 
